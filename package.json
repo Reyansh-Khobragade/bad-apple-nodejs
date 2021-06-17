@@ -1,0 +1,25 @@
+{
+    "name": "bad-apple-nodejs",
+    "version": "1.0.0",
+    "description": "Play Bad Apple In Node.Js",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Reyansh-Khobragade/bad-apple-nodejs.git"
+    },
+    "keywords": [
+        "bad-apple",
+        "bad apple",
+        "NodeJs",
+        "Node.Js",
+        "Bad Apple In NodeJs"
+    ],
+    "author": "reyansh-khobragade",
+    "license": "SEE LICENCE FILE.",
+    "dependencies": {
+        "fs": "0.0.1-security"
+    }
+}
